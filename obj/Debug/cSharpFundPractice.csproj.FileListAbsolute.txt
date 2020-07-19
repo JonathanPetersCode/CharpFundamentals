@@ -1,0 +1,6 @@
+C:\Users\Johnn\RiderProjects\cSharpFundPractice\cSharpFundPractice\obj\Debug\cSharpFundPractice.csprojAssemblyReference.cache
+C:\Users\Johnn\RiderProjects\cSharpFundPractice\cSharpFundPractice\obj\Debug\cSharpFundPractice.csproj.CoreCompileInputs.cache
+C:\Users\Johnn\RiderProjects\cSharpFundPractice\cSharpFundPractice\bin\Debug\cSharpFundPractice.exe
+C:\Users\Johnn\RiderProjects\cSharpFundPractice\cSharpFundPractice\bin\Debug\cSharpFundPractice.pdb
+C:\Users\Johnn\RiderProjects\cSharpFundPractice\cSharpFundPractice\obj\Debug\cSharpFundPractice.exe
+C:\Users\Johnn\RiderProjects\cSharpFundPractice\cSharpFundPractice\obj\Debug\cSharpFundPractice.pdb
