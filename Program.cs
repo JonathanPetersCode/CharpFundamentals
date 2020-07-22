@@ -1,7 +1,6 @@
 ﻿using System;
 
-
-  class Program
+class Program
   {
       static void Main(string[] args)
       {
@@ -50,6 +49,34 @@
           long myLong = long.MaxValue;
           Console.WriteLine(myLong);
 
+          
+          Console.WriteLine(double.MaxValue);
+          double sweetNum = 5e9d;
+          //int igloo = checked((int)sweetNum);
+          //Console.WriteLine(igloo);
+
+          string k = "Corn Flakes ";
+          double lp = 543232.56;
+          Console.WriteLine(k + lp);
+
+          int qwe = 8232;
+          Console.WriteLine(qwe.ToString());
+
+          // Write an expression that checks whether an integer is odd or even. 
+        
+          for(int h = 0; h <= 50; h++)
+          {
+              if (h % 2 != 0)
+              {
+                  Console.WriteLine(h + ": is odd.");
+              }
+              else
+              {
+                  Console.WriteLine(h + ": is even.");
+              }
+          }
+          
+          
 
       }    
     }
