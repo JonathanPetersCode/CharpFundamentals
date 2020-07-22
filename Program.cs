@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class Program
   {
@@ -75,8 +76,34 @@ class Program
                   Console.WriteLine(h + ": is even.");
               }
           }
+          //2. Write a Boolean expression that checks
+          //whether a given integer is divisible
+          //by both 5 and 7, without a remainder. 
           
           
+          var myNumbersList = new List<int>();
+          myNumbersList.Add(32);
+
+
+          for (int i = 0; i < myNumbersList.Count; i++)
+          {
+              if (i % 5 == 0 && i % 7 == 0)
+              {
+                  Console.WriteLine(myNumbersList[i] + " is divisible by 5 and 7");
+              }
+              else if (i % 5 == 0)
+              {
+                  Console.WriteLine(myNumbersList[i] + " is divisible by 5");
+              }
+              else if (i % 7 == 0)
+              {
+                  Console.WriteLine(myNumbersList[i] + " is divisible by 5");
+              }
+              else
+              {
+                  Console.WriteLine(myNumbersList[i] + " is divisible by 7");
+              }
+          }
 
       }    
     }
